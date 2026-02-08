@@ -1,0 +1,79 @@
+[
+    {
+        "id": "smart-exam-evaluator",
+        "title": "Smart-Exam-Evaluator",
+        "shortDescription": "An AI-powered exam evaluation platform integrating generative intelligence with a personalized admin dashboard for automated and insightful assessments.",
+        "fullDescription": "An AI-powered exam evaluation system that automates grading of handwritten multiple-choice answer sheets using Google Gemini, Flask, and OpenCV. It enables educators to set up tests, process scanned answer sheets, and generate detailed Excel-based performance reports. The platform supports real-time analysis, consolidated reporting, and an intuitive frontend dashboard for seamless test management.",
+        "icon": "fas fa-robot",
+        "tags": [
+            "AI",
+            "Automated Grading",
+            "Dashboard"
+        ],
+        "techStack": [
+            "Flask",
+            "Google Gemini API",
+            "OpenCV",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "OpenPyXL",
+            "Pandas",
+            "Machine Learning"
+        ],
+        "demoVideo": "video/smart.mp4",
+        "sourceCode": "https://github.com/Navasakthivel/Auto-Evaluator.git"
+    },
+    {
+        "id": "floramart",
+        "title": "FloraMart – Garland Ordering System",
+        "shortDescription": "Built a full-stack wedding flower bulk ordering system using Java 25, Spring Boot, React, and MySQL with secure JWT authentication.",
+        "fullDescription": "A comprehensive full-stack wedding flower bulk ordering system built with Java 25, Spring Boot, React, and MySQL. Features secure JWT authentication, role-based dashboards for admin, vendors, and customers, multi-occasion cart management, and UPI payment integration. Includes automated professional PDF invoice generation using iTextPDF and end-to-end order workflows from browsing to delivery tracking.",
+        "icon": "fas fa-seedling",
+        "tags": [
+            "Spring Boot",
+            "React",
+            "JWT",
+            "Payments"
+        ],
+        "techStack": [
+            "Java 25",
+            "Spring Boot",
+            "React",
+            "MySQL",
+            "JWT",
+            "UPI Integration",
+            "iTextPDF",
+            "REST API"
+        ],
+        "demoVideo": "video/Flora-mart.mp4",
+        "sourceCode": {
+            "frontend": "https://github.com/Navasakthivel/Flower-order-Application-Frontend.git",
+            "backend": "https://github.com/Navasakthivel/Flower-order-Application-Backend.git"
+        }
+    },
+    {
+        "id": "gradesphere",
+        "title": "GradeSphere – College CGPA Management System",
+        "shortDescription": "Developed a full-stack GPA/CGPA management system using HTML, CSS, JavaScript, and Firebase with secure role-based authentication.",
+        "fullDescription": "A full-stack GPA/CGPA management system using HTML, CSS, JavaScript, and Firebase with secure role-based authentication for Admin, HOD, Staff, and Students. Implements real-time GPA/CGPA computation with department-wise subject and record management. Features a modern dark-themed glassmorphism UI with responsive layouts, interactive dashboards, and comprehensive academic tracking.",
+        "icon": "fas fa-graduation-cap",
+        "tags": [
+            "Firebase",
+            "Auth",
+            "Real-time",
+            "UI/UX"
+        ],
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Firebase",
+            "Firestore",
+            "Authentication",
+            "Glassmorphism UI"
+        ],
+        "demoVideo": "",
+        "sourceCode": "https://github.com/Navasakthivel/GradeSphere"
+    }
+]
